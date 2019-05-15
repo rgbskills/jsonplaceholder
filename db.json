@@ -1,0 +1,22 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Campaign 1"
+    },
+    {
+      "id": 2,
+      "name": "Campaign 2"
+    }
+  ],
+  "ads": [
+    {
+      "id": 1,
+      "name": "ad name" 
+    },
+    {
+      "id": 2,
+      "name": "another add" 
+    }
+  ]
+}
